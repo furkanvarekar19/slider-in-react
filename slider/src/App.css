@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+img{
+    height: 500px;
+    object-fit: cover;
+    transition: all 0.3s;
+   /* filter:brightness(50%); */
+
+}
+img:hover{
+   filter:brightness(60%);
+
+
+}
