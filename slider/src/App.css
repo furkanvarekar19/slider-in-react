@@ -1,5 +1,7 @@
 h1{
     text-align: center;
+    letter-spacing: 3px;
+   
 }
 img{
     height: 500px;
@@ -10,6 +12,4 @@ img{
 }
 img:hover{
    filter:brightness(60%);
-
-
 }
